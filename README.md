@@ -1,2 +1,2 @@
-# Python-Discord-Bots
-It's in the name.
+# Python-Files
+selection of python files used for discord and other projects
